@@ -9,7 +9,7 @@ We will use only native DC 5v from USB for mic powering, so no extra power is ne
 
 ## Required hardware:
 1.	Microphone module MAX9814, MAX9812 or MAX4466
-For this example we will use MAX9814 with cost about 1$ https://www.aliexpress.com/item/32863313585.html 
+For this example we will use MAX9814 with cost about 1.5$ https://www.aliexpress.com/item/32863198849.html 
 2.	USB sound card
 For this example we will use cheapest sound card with cost about 1$ https://www.aliexpress.com/item/1823823296.html 
 3.	Wires
