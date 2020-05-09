@@ -1,4 +1,4 @@
-# DIY HIGH-SENSITIVE Mic for your Raspberry or PC.
+# 3$ DIY HIGH-SENSITIVE Mic for your Raspberry or PC.
 This instruction contains the information how to make very sensitive USB microphone to work with Raspberries and PCs.
 I have DIY this microphone for using with Raspberry together with MagicMirror module and MMM-AssistantMk2 (and MMM-Hotword) modules.
 
